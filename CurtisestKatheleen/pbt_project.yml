@@ -1,0 +1,49 @@
+name: dorthea.jacobs
+description: Multi-tiered
+version: 0.0.1
+author: tjhhkcpd.uh3xqnof@rcf69ypu.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: dortheajacobs
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 22:01:00'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 22:01:00'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T22:01:00.098626Z'
+  name: plibMaven
+  version: 8.4.0-SNAPSHOT
+  id: '767556364'
+  createdAt: '2024-10-24T22:01:00.098626Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
